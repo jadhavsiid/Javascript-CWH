@@ -19,4 +19,4 @@ console.log("The sum is:",sum(8,8));
 const hello =()=>{
     console.error("This is a Cute Error.")
 }
-hello();
+hello()
