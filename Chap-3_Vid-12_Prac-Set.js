@@ -13,7 +13,7 @@ for (let i = 0; i < Object.keys(marks).length; i++) {
       Object.keys(marks)[i] +
       " are " +
       marks[Object.keys(marks)[i]]
-  );
+  )
 }
 
 // Q.2) WAP to print marks of a student in an object using for-in loop
