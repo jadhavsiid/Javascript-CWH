@@ -12,3 +12,4 @@ if(write){
 else{
     document.write('Pleae allow me to write ')
 }
+;
